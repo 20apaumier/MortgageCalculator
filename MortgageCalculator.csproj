@@ -10,10 +10,14 @@
     <RepositoryUrl>https://github.com/20apaumier/MortgageCalculator</RepositoryUrl>
     <PackageTags>Mortgage Calculator</PackageTags>
     <PackageId>AJ.MortgageCalculator</PackageId>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="https:\github.com\20apaumier\MortgageCalculator\blob\master\README.md" />
+    <None Update="README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
   </ItemGroup>
 
 </Project>
