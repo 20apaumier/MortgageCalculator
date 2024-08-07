@@ -8,6 +8,7 @@
     <Authors>$AJ Paumier</Authors>
     <Description>Library to calculate the monthly payment for a mortgage</Description>
     <RepositoryUrl>https://github.com/20apaumier/MortgageCalculator</RepositoryUrl>
+	<PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageTags>Mortgage Calculator</PackageTags>
     <PackageId>AJ.MortgageCalculator</PackageId>
     <PackageReadmeFile>README.md</PackageReadmeFile>
