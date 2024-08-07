@@ -12,6 +12,7 @@
     <PackageTags>Mortgage Calculator</PackageTags>
     <PackageId>AJ.MortgageCalculator</PackageId>
     <PackageReadmeFile>README.md</PackageReadmeFile>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
